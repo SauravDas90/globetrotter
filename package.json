@@ -2,10 +2,10 @@
 	"name": "passport-fcc",
 	"version": "1.0.0",
 	"description": "sample project for using passport",
-	"main": "index.js",
+	"main": "app.js",
 	"scripts": {
-		"start": "node index.js",
-		"restart": "nodemon index.js"
+		"start": "node app.js",
+		"restart": "nodemon app.js"
 	},
 	"dependencies": {
 		"body-parser": "^1.16.0",
